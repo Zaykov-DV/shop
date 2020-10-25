@@ -1,5 +1,5 @@
 # Shop App
-Магазин обуви на VueJS
+VueJS Shop App with slider
 
 
 ## Project setup
