@@ -1,6 +1,5 @@
-# vue-cli
-Базовая сборка на VUE CLI 3
-* установлены роуты
+# Shop App
+VueJS Shop App with slider
 
 
 ## Project setup
